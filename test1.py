@@ -1,1 +1,1 @@
-print("prince")
+print("princ")
